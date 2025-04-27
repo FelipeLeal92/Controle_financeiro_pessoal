@@ -42,7 +42,7 @@ ________________________________________
 
 ## 🚀 Como utilizar
 1.	Clone o repositório:
-git clone https://github.com/seu-usuario/moneypulse.git
+git clone https://github.com/FelipeLeal92/Controle_financeiro_pessoal.git
 cd moneypulse
 2.	Instale as dependências (se houver).
 3.	Execute o projeto:
